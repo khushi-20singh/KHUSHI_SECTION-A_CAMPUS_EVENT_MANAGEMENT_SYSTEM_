@@ -6,7 +6,7 @@ A Django-powered backend platform that streamlines campus event coordination by 
 ---
 
 ## 📽️ Demo Video
-[Watch Demo](https://your-demo-video-link.com)
+[Watch Demo](event management system mini.mp4)
 
 ## 📄 Project Report pdf
 [View Project Report (PDF)](https://your-project-report-link.com)
