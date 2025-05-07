@@ -12,7 +12,7 @@ A Django-powered backend platform that streamlines campus event coordination by 
 [View Project Report (PDF)](https://your-project-report-link.com)
 
 ## 📊 Presentation Slides
-[View Presentation (PDF)]()
+[View Presentation (PDF)](MINI_PROJECT_PRESENTATION[1].pdf)
 
 ---
 
