@@ -8,11 +8,11 @@ A Django-powered backend platform that streamlines campus event coordination by 
 ## 📽️ Demo Video
 [Watch Demo](https://your-demo-video-link.com)
 
-## 📄 Project Report
+## 📄 Project Report pdf
 [View Project Report (PDF)](https://your-project-report-link.com)
 
 ## 📊 Presentation Slides
-[View Presentation (PDF)](https://your-presentation-link.com)
+[View Presentation (PDF)]()
 
 ---
 
@@ -37,27 +37,7 @@ A Django-powered backend platform that streamlines campus event coordination by 
 - **Authentication**: Django built-in user auth with admin/staff support
 
 ---
-Project Structure
-campus_event/
-│
-├── campus_event/ # Main project config (settings, urls)
-│ ├── init.py
-│ ├── asgi.py
-│ ├── settings.py
-│ ├── urls.py
-│ └── wsgi.py
-│
-├── event_management/ # Main app (models, views, admin)
-│ ├── admin.py
-│ ├── apps.py
-│ ├── models.py
-│ ├── views.py
-│ ├── urls.py
-│ └── migrations/
-│
-├── media/ # Uploaded certificates, notices
-├── db.sqlite3 # SQLite database
-└── manage.py # Runserver entry point
+## 🗂 Project Structure ``` campus_event_manager_backend/ │ ├── campus_event/ # Main Django project folder │ ├── __init__.py │ ├── settings.py # Project configuration and settings │ ├── urls.py # URL routing for the entire project │ ├── asgi.py │ └── wsgi.py │ ├── event_management/ # Django app for events, certificates, notices │ ├── migrations/ # Database migration files │ │ └── __init__.py │ ├── __init__.py │ ├── admin.py # Admin panel setup for all models │ ├── apps.py │ ├── models.py # Models: Event, Notice, Certificate │ ├── tests.py │ └── views.py # App views (if any) │ ├── db.sqlite3 # Default SQLite database ├── manage.py # Django project manager script └── requirements.txt # Python dependencies ``` </pre>
 ---
 
 ## 🧑‍💻 Local Setup Guide
